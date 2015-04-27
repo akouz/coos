@@ -1,5 +1,5 @@
 # coos
-Extremely simple and highly portable cooperative operating system in pure C. Suitable for any microcontroller. Small footprint. Based on standard C functions setjmp and longjmp from <setjmp.h>.
+Extremely simple and highly portable cooperative operating system in pure C. Suitable for any microcontroller. Small footprint. Based on standard C functions setjmp and longjmp, no assembler code used.
 
 Operating system and demo tasks occupy only 200 lines of text. Demo project compiled for PIC24FJ64GA002 took 669 bytes of program memory and 270 bytes of RAM. 
 
